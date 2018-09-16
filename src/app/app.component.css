@@ -1,0 +1,29 @@
+.galery{
+  background: antiquewhite;
+  width: 100%;
+  margin-top:10px;
+}
+
+.post{
+  background-color: snow;
+  float: left;
+  width: 33%;
+  height: 300px;
+  background-color:greenyellow;
+  margin: 1px 1px 1px 1px;
+
+}
+
+.post img{
+  border: 1px solid white;
+  display: block;
+  margin:0 auto;
+}
+
+.post h3{
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+}
